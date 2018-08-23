@@ -29,7 +29,7 @@ Copy the folder "esx_tequilalajob" into your resources folder
 
 Add this on your server.cfg :
 
-start esx_tequilala
+start esx_tequilalajob
 Import the "esx_tequilalajob.sql" into your Database (Mysql only)
 
 You can change every spawn point and marker on the config.lua file
